@@ -9,17 +9,24 @@ h2
     color:red;
     font-size: 250%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
 }
 h2,a
 {
     color:green;
-    font-size:150%;
+    font-size:200%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p
 {
     color:darkblue;
-    font-size:100%;
+    font-size:200%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align:center;
+}
+li
+{
+    text-align:center;
+    color:peru;
+    font-size:150%;
 }
